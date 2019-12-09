@@ -25,7 +25,7 @@ class MyApp extends StatelessWidget {
         // is not restarted.
         primarySwatch: Colors.blue,
       ),
-      home: MyHomePage(title: 'Traveloka'),
+      home: MyHomePage(title: 'Traveloka Clone'),
     );
   }
 }
